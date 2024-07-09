@@ -1,6 +1,7 @@
 # ArrestosNYC-EDA
 Análisis exploratorio de Datos sobre arrestos en New York a lo largo de los años.
 El dataset se encuentra en este Link (no lo adjuntamos por su gran tamaño): https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data
+
 Se plantearon una serie de objetivos que se detallan a continuación:
 
 1) Describir las Características Generales de los Arrestos: Analizar variables como el número total de arrestos, tipos de delitos, demografía de los arrestados (edad, género, raza), y localización geográfica de los incidentes.
