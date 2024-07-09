@@ -30,7 +30,6 @@ Acciones que se podrian tomar gracias al analisis realizado:
 
 1. Asignación de Recursos:
 Focalización en Áreas Clave: Los mapas y gráficos que muestran la concentración de arrestos en ciertos distritos y barrios (como los precintos 14, 44 y 77) sugieren la necesidad de asignar más recursos policiales a estas áreas. Esto podría incluir un aumento de patrullas, programas de vigilancia comunitaria y estrategias de prevención del delito específicas para cada zona.
-
 Prioridades: Los delitos más frecuentes incluyen agresiones, hurto menor y delitos relacionados con drogas. Abordar estos tipos específicos de delitos debe ser una prioridad para las fuerzas del orden.
 
 2. Programas de Prevención:
