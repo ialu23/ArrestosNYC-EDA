@@ -27,13 +27,16 @@ Algunas conclusiones que se encontraron fueron:
 Como mencionamos anteriormente, se encontraron muchos patrones de correlación  con los datos estudiados. Sin embargo, deben realizarse estudios más exhaustivos para llegar a la raíz de lo planteado y establecer relaciones de causalidad. 
 
 Acciones que se podrian tomar gracias al analisis realizado:
+
 1. Asignación de Recursos:
 Focalización en Áreas Clave: Los mapas y gráficos que muestran la concentración de arrestos en ciertos distritos y barrios (como los precintos 14, 44 y 77) sugieren la necesidad de asignar más recursos policiales a estas áreas. Esto podría incluir un aumento de patrullas, programas de vigilancia comunitaria y estrategias de prevención del delito específicas para cada zona.
-Horarios Críticos: El análisis de la distribución de arrestos a lo largo del tiempo puede ayudar a identificar los momentos del día o días de la semana con mayor incidencia de delitos. Esto permitiría ajustar los turnos policiales y la presencia de oficiales en las calles para maximizar la efectividad de la vigilancia.
+Prioridades: Los delitos más frecuentes incluyen agresiones, hurto menor y delitos relacionados con drogas. Abordar estos tipos específicos de delitos debe ser una prioridad para las fuerzas del orden.
 
 2. Programas de Prevención:
 Jóvenes en Riesgo: La alta incidencia de arrestos en los grupos de edad de 18-24 y 25-44 indica la necesidad de programas de prevención del delito dirigidos a jóvenes. Estos programas podrían incluir iniciativas educativas, oportunidades de empleo y apoyo social para ayudar a los jóvenes a evitar la delincuencia.
 Desigualdades Raciales: La desproporcionada representación de ciertos grupos raciales en los datos de arrestos exige una investigación más profunda sobre las posibles causas de estas disparidades. Esto podría llevar a la implementación de políticas y prácticas policiales más justas y equitativas.
+Sexo: Los hombres son arrestados significativamente más a menudo que las mujeres en la mayoría de las categorías de delitos, lo que destaca las diferencias de género en el comportamiento delictivo o en las respuestas de las fuerzas del orden.
+Predictive Policing: Explorar el uso de algoritmos de aprendizaje automático para predecir la probabilidad de delitos en áreas específicas y momentos del día. Esto podría ayudar a optimizar la asignación de recursos policiales y prevenir delitos antes de que ocurran.
 
-4. Enfoque en Delitos Específicos:
+3. Enfoque en Delitos Específicos:
 Delitos Comunes: El análisis de los delitos más frecuentes (como asalto, hurto menor y delitos relacionados con drogas) puede ayudar a desarrollar estrategias específicas para combatir estos problemas. Esto podría incluir campañas de concientización pública, programas de rehabilitación para delincuentes y medidas para abordar las causas subyacentes de estos delitos.
