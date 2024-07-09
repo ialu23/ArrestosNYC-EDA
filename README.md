@@ -34,7 +34,7 @@ Focalización en Áreas Clave: Los mapas y gráficos que muestran la concentraci
 
 Prioridades: Los delitos más frecuentes incluyen agresiones, hurto menor y delitos relacionados con drogas. Abordar estos tipos específicos de delitos debe ser una prioridad para las fuerzas del orden.
 
-3) Programas de Prevención:
+2) Programas de Prevención:
    
 Jóvenes en Riesgo: La alta incidencia de arrestos en los grupos de edad de 18-24 y 25-44 indica la necesidad de programas de prevención del delito dirigidos a jóvenes. Estos programas podrían incluir iniciativas educativas, oportunidades de empleo y apoyo social para ayudar a los jóvenes a evitar la delincuencia.
 
@@ -44,6 +44,6 @@ Sexo: Los hombres son arrestados significativamente más a menudo que las mujere
 
 Predictive Policing: Explorar el uso de algoritmos de aprendizaje automático para predecir la probabilidad de delitos en áreas específicas y momentos del día. Esto podría ayudar a optimizar la asignación de recursos policiales y prevenir delitos antes de que ocurran.
 
-4) Enfoque en Delitos Específicos:
+3) Enfoque en Delitos Específicos:
    
 Delitos Comunes: El análisis de los delitos más frecuentes (como asalto, hurto menor y delitos relacionados con drogas) puede ayudar a desarrollar estrategias específicas para combatir estos problemas. Esto podría incluir campañas de concientización pública, programas de rehabilitación para delincuentes y medidas para abordar las causas subyacentes de estos delitos.
